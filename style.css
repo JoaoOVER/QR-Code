@@ -1,10 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Cookie&family=Outfit:wght@100;200;300;400;500;600;700;800;900&family=Work+Sans:ital,wght@0,800;0,900;1,700;1,800;1,900&display=swap');
+
 
 body {
-    background-color: aqua;
+    background-color:  hsl(212, 45%, 89%);
+    font-family: 'Outfit';
 }
 
 main {
     background-color: white;
+    border-radius: 15px;
+    padding: 15px;
+    padding-bottom: 20px;
+
+    min-width: 300px;
+    max-width: 300px;
+    
+    margin: 150px 787px 150px 787px;
+    box-shadow: 5px 5px 10px hsla(219, 15%, 55%, 0.486);
+}
+
+main > img {
     border-radius: 10px;
-    margin: auto;
+    width: 100%;
+}
+
+main > h2 {
+    text-align: center;
+    font-weight: bold;
+    color: hsl(218, 44%, 22%);
+}
+
+main > p {
+    text-align: center;
+    font-size: 15px;
+    margin: 16px;
 }
