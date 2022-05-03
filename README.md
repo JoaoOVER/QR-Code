@@ -3,8 +3,8 @@ Desafio do site [frontend Mentor](https://www.frontendmentor.io/challenges) de c
 
 Design original:
 
-![desktop-design](desktop-design.jpg)
+<img src="desktop-design.jpg" alt="desktop-design">
 
 Design responsivo:
 
-![mobile-design](mobile-design.jpg)
+<img src="mobile-design.jpg" alt="mobile-design">
