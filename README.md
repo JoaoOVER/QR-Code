@@ -1,2 +1,2 @@
 # QR-Code
- Desafio de construir um componente de código QR do Frontend Mentor
+ <h1>Desafio do site frontend Mentor</h1>
