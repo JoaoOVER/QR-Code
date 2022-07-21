@@ -8,5 +8,3 @@ Design original:
 ![desktop-design](design/desktop-design.jpg)
 
 Design responsivo:
-
-![mobile-design](design/mobile-design.jpg)
