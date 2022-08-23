@@ -9,5 +9,5 @@
   </ul>
 </p>
 
-Design original:
+<h3>Design original:</h3>
 <img src="design/desktop-design.jpg">
