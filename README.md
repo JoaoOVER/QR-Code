@@ -1,10 +1,13 @@
-# QR-Code
-Desafio do site [frontend Mentor](https://www.frontendmentor.io/challenges) de criação de um projeto para pratica os conhecimentos na linguagem, A atividade consiste na criação de um QR mais parecido possivel com o design original.
+<h1>QR-Code</h1>
 
-[Link do Qr-Code pelo github pages](https://joaoover.github.io/QR-Code/Qr_Code.html)
+<p>O Desafio do site <a href="https://www.frontendmentor.io/challenges">Frontend Mentor</a> de criação de um projeto para pratica os conhecimentos na linguagem, A atividade consiste na criação de um QR Code, mais parecido possivel com o design original.</p>
 
-Design original:
+<p>
+  <ul>
+    <li>URL do desafio no <a href="https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H"/>frontend Mentor</a></li>
+    <li>URL da solução do desafio no <a href="https://joaoover.github.io/QR-Code/Qr_Code.html"/>Githubpages</a></li>
+  </ul>
+</p>
 
-![desktop-design](design/desktop-design.jpg)
-
-Design responsivo:
+<h2>Design original:</h2>
+<img src="design/desktop-design.jpg">
